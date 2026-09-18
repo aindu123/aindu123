@@ -9,6 +9,7 @@
 🏆 Google Developer Groups Certificate
 🏆 Viksit Bharat Participant Certificate 
 ## 📚 Currently Learning
+- C
+- Python
 - Java
-- Data Structures
 - Open Source Contribution
